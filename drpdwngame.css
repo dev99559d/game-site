@@ -1,0 +1,38 @@
+.head3{
+	color: red;
+	text-shadow: 0px 2px 10px grey;
+}
+.head3:hover{
+	text-shadow: 2px 5px 6px black;
+}
+.gamebody{
+	background-image: url("void_compass-800.gif");
+}
+.gamebody:hover{
+	background-image: url("RequiredCelebratedKudu-size_restricted.gif");
+}
+.firedev{
+	height: 200px;
+	width: 200px;
+	border-radius: 60%;
+	margin-top: 230px;
+    
+}
+.firedev{
+	background-image: url("e18e868d13a3bc244535266a0a299202.gif");
+background-size: 100%;
+}
+.devfire{
+	height: 150px;
+	width: 150px;
+	border-radius: 100%;
+	margin-left: 20px;
+	margin-top: 20px;
+	opacity: 0.5;
+	box-shadow: 10px 10px 10px 10px orange;
+
+
+}
+.firedev:hover{
+	background-image: url("a.gif");
+}

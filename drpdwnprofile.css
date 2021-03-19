@@ -1,0 +1,41 @@
+.bodyprofile{
+	background-image: url("castle.gif");
+}
+.maingame{
+	text-decoration: none;
+	color: grey;
+}
+.profileleft{
+	background-color: white;
+	height: 350px;
+	width: 350px;
+	margin-left: 30px;
+	border-style: inset;
+}
+.pimg{
+	float: left;
+}
+.pimgright{
+	float: left;
+	color: grey;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.avatarimg{
+	vertical-align: middle;
+  width: 150px;
+  height: 150px;
+  border-radius: 150%;
+}
+.mainprofile{
+	text-decoration: none;
+	color: grey;
+}
+.head2{
+	color: grey;
+	text-shadow: 0px 2px 10px black;
+}
+.head2:hover{
+	text-shadow: 0px 2px 10px red;
+}
+
